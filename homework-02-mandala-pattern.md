@@ -11,7 +11,7 @@
 
 4. If you happen to copy a code from other developers, please do credit them and do your best to implement it using your own style. Points will be deducted from your total score if you fail to do so. 
 
-5. Homework should be submitted on or before February 11, 2020.
+5. Homework should be submitted on or before February 14, 2020.
 
 ---
 
